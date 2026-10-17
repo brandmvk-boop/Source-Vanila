@@ -1,0 +1,36 @@
+#SRG
+objs
+10411, derevo_1, pack_derevo, 100, 2097156
+10412, derevo_1c, pack_derevo, 45, 0
+10413, derevo_2, pack_derevo, 150, 2097156
+10414, derevo_2c, pack_derevo, 45, 0
+10415, derevo_3, pack_derevo, 100, 2097156
+10416, derevo_3c, pack_derevo, 45, 0
+10417, derevo_4, pack_derevo, 100, 2097156
+10418, derevo_4c, pack_derevo, 45, 0
+10419, derevo_5, pack_derevo, 100, 2097156
+10420, derevo_5c, pack_derevo, 45, 0
+10450, derevo_5sm, pack_derevo, 200, 4
+10451, derevo_5smc, pack_derevo, 45, 0
+10454, derevo_5big, pack_derevo, 200, 2097156
+10455, derevo_5bigc, pack_derevo, 45, 0
+10456, derevo_2big, pack_derevo, 200, 4
+10457, derevo_2bigc, pack_derevo, 45, 0
+10458, derevo_3big, pack_derevo, 200, 4
+10459, derevo_3bigc, pack_derevo, 45, 0
+11201, bereza, CR, 250, 4
+11202, berezac, CR, 45, 0
+11203, topol, CR, 250, 4
+11204, topolc, CR, 45, 0
+11234, bereza_big, CR, 250, 4
+11235, bereza_bigc, CR, 45, 0
+11236, topol_big, CR, 250, 4
+11237, topol_bigc, CR, 45, 0
+end
+tobj
+end
+
+
+
+
+

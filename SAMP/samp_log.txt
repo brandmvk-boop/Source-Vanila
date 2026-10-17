@@ -1,0 +1,1295 @@
+Build time: 00:45:56 Jul 15 2025
+Storage: /storage/emulated/0/StageMobile/
+Loading settings..
+Opening settings: /storage/emulated/0/StageMobile/SAMP/settings.ini
+Mihail Settings LOAD
+graphics 3
+Loading "samp" cd..
+Loading handling.cfg..
+Creating "MultiPlayer" button.. (struct: 0x96E7C00C)
+CGame: InitInMenu
+Installing patches..
+installHook: 0xBA0B59B0 -> 0xB9716E91
+installHook: 0xBA0B4338 -> 0xB9716CCD
+installHook: 0xBA0B5178 -> 0xB9716D01
+installHook: 0xBA0DA47C -> 0xB971CCF5
+installHook: 0xBA168528 -> 0xB971CACD
+installHook: 0xBA3A79D8 -> 0xB971CB59
+installHook: 0xBA3939AC -> 0xB971BD09
+installHook: 0xBA2AE6AC -> 0xB971CC19
+installHook: 0xBA0C2398 -> 0xB971A295
+installHook: 0xBA218CA8 -> 0xB97178B9
+installHook: 0xBA1DBEF4 -> 0xB9716A55
+installHook: 0xBA1DC098 -> 0xB9716C91
+installHook: 0xBA07AD5C -> 0xB9717951
+installHook: 0xBA0CF83C -> 0xB9717B01
+installHook: 0xBA177690 -> 0xB97180BD
+installHook: 0xBA21CA88 -> 0xB971815D
+installHook: 0xBA21BF84 -> 0xB9718161
+installHook: 0xBA2080C0 -> 0xB971C6DD
+installHook: 0xBA2C3E60 -> 0xB97184F9
+installHook: 0xBA2C43CC -> 0xB9718529
+CodeInject: 0xBA11A9F4 -> 0xb9718449 (register: r1)
+installHook: 0xBA177268 -> 0xB9718E6D
+installHook: 0xBA3A768C -> 0xB971C415
+installHook: 0xBA177618 -> 0xB9718F01
+installHook: 0xBA17EA5C -> 0xB9718E09
+installHook: 0xBA372118 -> 0xB9718E1D
+installHook: 0xB9FEFCC0 -> 0xB9718DF1
+installHook: 0xBA120D30 -> 0xB9718E31
+installHook: 0xBA17BD78 -> 0xB9718E49
+installHook: 0xBA09DB8C -> 0xB971CD2D
+installHook: 0xBA351B08 -> 0xB971CA35
+installHook: 0xBA216894 -> 0xB9718F91
+installHook: 0xBA0B7510 -> 0xB971971D
+installHook: 0xBA202BF8 -> 0xB97199D9
+installHook: 0xBA1D6994 -> 0xB9719A61
+installHook: 0xBA230518 -> 0xB971A015
+installHook: 0xBA099910 -> 0xB971A1C5
+installHook: 0xBA1ED114 -> 0xB971A1F5
+installHook: 0xBA176CC0 -> 0xB971A1F9
+installHook: 0xB9FFD314 -> 0xB971A2B1
+installHook: 0xB9FE9530 -> 0xB971A381
+installHook: 0xBA179CBC -> 0xB971A705
+installHook: 0xBA34EEF4 -> 0xB971A7B5
+installHook: 0xBA1D96CC -> 0xB971A871
+installHook: 0xBA1D9334 -> 0xB971ACF1
+installHook: 0xBA3876EC -> 0xB971AEA1
+installHook: 0xBA359EC4 -> 0xB971B0A1
+installHook: 0xBA32771C -> 0xB971B341
+installHook: 0xBA31D6E8 -> 0xB971B31D
+installHook: 0xBA229D48 -> 0xB971B1A5
+installHook: 0xBA229884 -> 0xB971B2A9
+installHook: 0xBA2ADEF4 -> 0xB971B3FD
+installHook: 0xBA21B86C -> 0xB971B415
+installHook: 0xBA3939FC -> 0xB971B471
+installHook: 0xBA3763B4 -> 0xB971B7D5
+installHook: 0xBA39365C -> 0xB971BAB9
+installHook: 0xBA0BE8A8 -> 0xB971B7A9
+installHook: 0xBA0BDE88 -> 0xB971BD9D
+installHook: 0xBA1CAD74 -> 0xB971BF1D
+installHook: 0xBA1DEC68 -> 0xB971C0FD
+installHook: 0xBA15C164 -> 0xB971C1F1
+installHook: 0xBA27B17C -> 0xB971C219
+installHook: 0xB9FF2808 -> 0xB971CCE1
+installHook: 0xBA2462B8 -> 0xB971A4BD
+installHook: 0xBA19CE30 -> 0xB971A4D5
+installHook: 0xBA0B5AB4 -> 0xB9716DC9
+installHook: 0xBA2FA7FC -> 0xB971CDED
+installHook: 0xBA29B280 -> 0xB9724DFD
+installHook: 0xBA1DE08C -> 0xB9724451
+installHook: 0xBA1DE110 -> 0xB97244B1
+installHook: 0xBA1DE54C -> 0xB9724ABD
+installHook: 0xBA1DE528 -> 0xB9724B51
+installHook: 0xBA1DE344 -> 0xB9724BE5
+installHook: 0xBA1DE368 -> 0xB9724C55
+installHook: 0xBA1DFAA4 -> 0xB972450D
+installHook: 0xBA1DF9B8 -> 0xB9724561
+installHook: 0xBA1DF96C -> 0xB97245CD
+installHook: 0xBA1DF824 -> 0xB9724629
+installHook: 0xBA1DF8C0 -> 0xB972467D
+installHook: 0xBA1DFA0C -> 0xB97246D1
+installHook: 0xBA1DFA4C -> 0xB9724725
+installHook: 0xBA1DED9C -> 0xB97247A1
+installHook: 0xBA1DF038 -> 0xB9725191
+installHook: 0xBA1DF498 -> 0xB972525D
+installHook: 0xBA1DF418 -> 0xB9725231
+installHook: 0xBA302748 -> 0xB9725211
+installHook: 0xBA1DF7B0 -> 0xB9724775
+installHook: 0xBA1DEB50 -> 0xB97247FD
+installHook: 0xBA1DD9E4 -> 0xB9724845
+installHook: 0xBA1DDBF0 -> 0xB9724881
+installHook: 0xBA1DEB7C -> 0xB97248BD
+installHook: 0xBA1DE938 -> 0xB9724975
+installHook: 0xBA1DE754 -> 0xB9724A2D
+installHook: 0xBA1DE4F8 -> 0xB9724CC5
+installHook: 0xBA1DE4C8 -> 0xB9724A75
+installHook: 0xBA1DEA1C -> 0xB9724DA1
+installHook: 0xBA1DED30 -> 0xB9725425
+Loading splash texture..
+Initializing GUI..
+GUI | Display size: 2248.000000, 1080.000000
+GUI | Scale factor: 1.170833, 1.000000 Font size: 30.000000
+GUI | Loading font: visby-round-cf-extra-bold.ttf
+GUI | ImFont pointer = 0x969E5420
+
+Initalizing KeyBoard..
+Size: 2248.000000, 594.000000. Pos: 0.000000, 486.000000
+font size: 70.000000. Key's height: 118.800003
+InitENG
+InitRU
+InitNUM
+KeyBoard inited
+Loading afk_icon..
+KillList initialize
+
+Max sources: 255
+Loading vehicles.ide..
+Loading peds.ide..
+Loading gta.dat..
+Loading script.img..
+Loading script.img..
+Loading weapon.dat..
+Loading mainV1.scm..
+CGame_Init3_hook
+texture loaded cloudy_1
+texture loaded cloudy_2
+texture loaded cloudy_3
+texture loaded cloudy_1
+texture loaded cloudy_2
+texture loaded cloudy_4
+texture loaded cloudy_1
+texture loaded cloudy_2
+texture loaded cloudy_1
+texture loaded cloudy_3
+texture loaded cloudy_4
+texture loaded cloudy_2
+texture loaded cloudy_4
+texture loaded cloudy_3
+texture loaded cloudy_2
+texture loaded cloudy_3
+texture loaded cloudy_2
+texture loaded cloudy_3
+texture loaded cloudy_3
+texture loaded cloudy_5
+texture not loaded stars_1
+CCustomPlateManager::Initialise...
+CGame: InitInGame
+Installing patches (ingame)..
+1
+2
+0
+1
+2
+3
+4
+5
+6
+InGame patches successfully installed!
+created player 2
+GUI | CreateDeviceObjects.
+GUI | Font atlas width: 512, height: 512, depth: 32
+GUI | Vertex buffer reallocated. Size: 200000
+Folder SAMP is original
+Registering RPC's..
+Registering ScriptRPC's..
+Incoming packet: ID_AUTH_KEY
+[AUTH] 11AF73A837AD7EFB -> 6A7F7A7E11BDDD1DBAF750FD409B766EE2A1C576
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerArmour
+RPC: ScrSetPlayerArmour
+RPC: ScrSetPlayerColor
+RPC: InitGame
+Count = 455
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+[IsModelLoaded] iModelID: 79
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 79
+IsModelLoaded true!
+[IsModelLoaded] iModelID: 78
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 78
+IsModelLoaded true!
+RPC: ScrDisplayGameText
+[IsModelLoaded] iModelID: 79
+IsModelLoaded true!
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+CLocalPlayer::UpdateRemoteInterior 174
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerArmour
+RPC: ScrApplyPlayerAnimation
+PED, null
+RPC: TogglePlayerControllable
+RPC: ScrTogglePlayerSpectating
+toggle: 1
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+spawn_main loaded from samp
+si_lastexit loaded from samp
+si_default loaded from samp
+si_house loaded from samp
+si_fraction loaded from samp
+CLocalPlayer::UpdateRemoteInterior 163
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrTogglePlayerSpectating
+[IsModelLoaded] iModelID: 79
+IsModelLoaded true!
+toggle: 0
+[IsModelLoaded] iModelID: 79
+IsModelLoaded true!
+RPC: ScrTogglePlayerSpectating
+toggle: 0
+[IsModelLoaded] iModelID: 79
+IsModelLoaded true!
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerArmour
+RPC: ScrApplyPlayerAnimation
+PED, null
+RPC: TogglePlayerControllable
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerColor
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 78
+IsModelLoaded true!
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerArmour
+RPC: ScrApplyPlayerAnimation
+PED, null
+RPC: TogglePlayerControllable
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerColor
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerArmour
+RPC: ScrApplyPlayerAnimation
+PED, null
+RPC: TogglePlayerControllable
+RPC: ScrSetPlayerHealth
+RPC: ScrSetPlayerColor
+CLocalPlayer::UpdateRemoteInterior 0
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 78
+IsModelLoaded true!
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC_SCRCREATEOBJECT(0) 1317 -493.772614 921.362427 10.258200
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+red-2 loaded from samp
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 -485.375397 879.449524 10.258200
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+red-2 loaded from samp
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(2) 1317 -36.102001 1363.116699 10.115600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+red-2 loaded from samp
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 420
+IsModelLoaded true!
+CreatePickup(1318, 23, 2576, -2416,   22)
+CreatePickup(1318, 1, 2578, -2378,   23)
+[IsModelLoaded] iModelID: 311
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+RPC_SCRCREATEOBJECT(0) 1317 2578.639893 -2413.229980 20.105600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 2578.639893 -2413.229980 20.105600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(2) 1317 2376.409912 -2128.729980 20.085600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+CreatePickup(1318, 23, 2641, -2321,   23)
+CreatePickup(1318, 23, 2641, -2337,   23)
+CreatePickup(1318, 23, 2641, -2364,   23)
+CreatePickup(1318, 23, 2641, -2380,   23)
+CreatePickup(1318, 23, 2641, -2396,   23)
+CreatePickup(1318, 23, 2641, -2289,   23)
+CreatePickup(1318, 23, 2641, -2305,   23)
+CreatePickup(1318, 23, 2641, -2412,   23)
+CreatePickup(1239, 23, 2764, -2458,   22)
+OnPlayerClickMap: 453.527954, 2223.271240, 0.000000
+OnPlayerClickMap: 428.145844, 2195.082764, 0.000000
+OnPlayerClickMap: 458.589508, 2215.378662, 0.000000
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 420
+IsModelLoaded true!
+CreatePickup(1318, 23,  325, 1954,   22)
+CreatePickup(1318, 1,  449, 2204,   12)
+CreatePickup(1318, 1,  403, 1943,    9)
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrDisplayGameText
+RPC: TogglePlayerControllable
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 516
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 516
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC_SCRCREATEOBJECT(0) 1317 -653.032471 -716.007019 1200.063110
+texture obj samporange 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+samporange loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 -92.330299 712.025330 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(2) 1317 -86.699600 717.835388 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(3) 1317 -92.865601 719.513123 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(4) 1317 -86.699600 719.437317 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrDisableMapIcon
+CLocalPlayer::UpdateRemoteInterior 1
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 516
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 529
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 529
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 604
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 604
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 604
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 405
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 404
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 404
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 404
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 405
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+ScmEvent: 65535 3
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: TogglePlayerControllable
+CLocalPlayer::UpdateRemoteInterior 0
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1239, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1239, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1239, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+CreatePickup(1318, 1,    0,    0,    0)
+RPC: ScrSetMapIcon
+CreatePickup(1318, 23,  325, 1954,   22)
+CreatePickup(1318, 1,  449, 2204,   12)
+CreatePickup(1318, 1,  403, 1943,    9)
+RPC: ScrDisplayGameText
+RPC: TogglePlayerControllable
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 516
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 516
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+CLocalPlayer::UpdateRemoteInterior 1
+RPC_SCRCREATEOBJECT(0) 1317 -92.330299 712.025330 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 -653.032471 -716.007019 1200.063110
+texture obj samporange 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+samporange loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(2) 1317 -86.699600 717.835388 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(3) 1317 -92.865601 719.513123 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(4) 1317 -86.699600 719.437317 1598.311401
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrDisableMapIcon
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 516
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 529
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 529
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 529
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 604
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 604
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+RPC: TogglePlayerControllable
+[IsModelLoaded] iModelID: 604
+IsModelLoaded true!
+RPC: ScrSetPlayerInterior
+[IsModelLoaded] iModelID: 405
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+RPC: ScrPutPlayerInVehicle
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: TogglePlayerControllable
+ScmEvent: 65535 3
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: TogglePlayerControllable
+CLocalPlayer::UpdateRemoteInterior 0
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: ScrSetMapIcon
+[IsModelLoaded] iModelID: 405
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+CreatePickup(1318, 23,  325, 1954,   22)
+CreatePickup(1318, 1,  449, 2204,   12)
+CreatePickup(1318, 1,  403, 1943,    9)
+RPC: ScrClearPlayerAnimations
+RPC: ScrDisplayGameText
+RPC: ScrSetPlayerPos
+RPC: ScrDisplayGameText
+RPC: ScrDisplayGameText
+RPC: ScrDisplayGameText
+RPC: ScrDisplayGameText
+CreatePickup(1273, 23,  792, 2370,   12)
+CreatePickup(1273, 23,  830, 2292,   13)
+CreatePickup(1273, 23,  842, 2419,   13)
+RPC: ScrSetMapIcon
+CreatePickup(1273, 23,  824, 2498,   12)
+CreatePickup(1273, 23,  898, 2316,   13)
+RPC: ScrDisableMapIcon
+CreatePickup(1273, 23,  899, 2533,   13)
+CreatePickup(1273, 23,  929, 2480,   12)
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+CreatePickup(1273, 23, 1034, 2626,   13)
+CreatePickup(1273, 23, 1054, 2483,   13)
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+CreatePickup(1273, 23, 1083, 2573,   13)
+CreatePickup(1273, 23, 1087, 2647,   13)
+CreatePickup(1273, 23,  984, 2305,   13)
+RPC: ScrDisableMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrDisableMapIcon
+RPC_SCRCREATEOBJECT(0) 1317 1754.319946 2471.479980 13.815599
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+OnPlayerClickMap: 2331.565918, 2056.620117, 0.000000
+RPC: ScrSetVehiclePos
+RPC_SCRCREATEOBJECT(1) 1317 1822.089966 1777.319946 13.835600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+red-2 loaded from samp
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrSetMapIcon
+CreatePickup(1239, 23, 2322, 2104,   16)
+CreatePickup(1239, 23, 2322, 2024,   16)
+CreatePickup(1239, 23, 2322, 2084,   16)
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: TogglePlayerControllable
+CLocalPlayer::UpdateRemoteInterior 1
+RPC: ScrDisableMapIcon
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+ScmEvent: 65535 3
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+ScmEvent: 65535 2
+RPC: EVENT_TYPE_CARCOMPONENT
+[IsModelLoaded] iModelID: 1010
+IsModelLoaded true!
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: TogglePlayerControllable
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrLinkVehicle
+RPC: ScrSetPlayerInterior
+CLocalPlayer::UpdateRemoteInterior 0
+RPC_SCRCREATEOBJECT(0) 1317 1822.089966 1777.319946 13.835600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 1754.319946 2471.479980 13.815599
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrSetMapIcon
+CreatePickup(1239, 23, 2322, 2104,   16)
+CreatePickup(1239, 23, 2322, 2024,   16)
+CreatePickup(1239, 23, 2322, 2084,   16)
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: TogglePlayerControllable
+CLocalPlayer::UpdateRemoteInterior 1
+RPC: ScrDisableMapIcon
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: TogglePlayerControllable
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrLinkVehicle
+RPC: ScrSetPlayerInterior
+CLocalPlayer::UpdateRemoteInterior 0
+RPC_SCRCREATEOBJECT(0) 1317 1822.089966 1777.319946 13.835600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 1754.319946 2471.479980 13.815599
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrSetMapIcon
+CreatePickup(1239, 23, 2322, 2104,   16)
+CreatePickup(1239, 23, 2322, 2024,   16)
+CreatePickup(1239, 23, 2322, 2084,   16)
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: TogglePlayerControllable
+CLocalPlayer::UpdateRemoteInterior 1
+RPC: ScrDisableMapIcon
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+ScmEvent: 65535 3
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: TogglePlayerControllable
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrLinkVehicle
+RPC: ScrSetPlayerInterior
+CLocalPlayer::UpdateRemoteInterior 0
+RPC_SCRCREATEOBJECT(0) 1317 1822.089966 1777.319946 13.835600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 1754.319946 2471.479980 13.815599
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+CreatePickup(1239, 23, 2322, 2104,   16)
+CreatePickup(1239, 23, 2322, 2024,   16)
+CreatePickup(1239, 23, 2322, 2084,   16)
+RPC: ScrSetMapIcon
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: TogglePlayerControllable
+CLocalPlayer::UpdateRemoteInterior 1
+RPC: ScrDisableMapIcon
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+ScmEvent: 65535 3
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: TogglePlayerControllable
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrLinkVehicle
+RPC: ScrSetPlayerInterior
+CLocalPlayer::UpdateRemoteInterior 0
+RPC_SCRCREATEOBJECT(0) 1317 1822.089966 1777.319946 13.835600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 1754.319946 2471.479980 13.815599
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrSetMapIcon
+CreatePickup(1239, 23, 2322, 2024,   16)
+CreatePickup(1239, 23, 2322, 2084,   16)
+CreatePickup(1239, 23, 2322, 2104,   16)
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraPos
+RPC: ScrSetCameraLookAt
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: TogglePlayerControllable
+RPC: ScrDisableMapIcon
+RPC_SCRCREATEOBJECT(0) 1317 1822.089966 1777.319946 13.835600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 1754.319946 2471.479980 13.815599
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+CLocalPlayer::UpdateRemoteInterior 1
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+ScmEvent: 65535 3
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrLinkVehicle
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+RPC: TogglePlayerControllable
+RPC: ScrSetVehiclePos
+RPC: ScrSetVehicleZAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrLinkVehicle
+RPC: ScrSetPlayerInterior
+CLocalPlayer::UpdateRemoteInterior 0
+RPC_SCRCREATEOBJECT(0) 1317 1822.089966 1777.319946 13.835600
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC_SCRCREATEOBJECT(1) 1317 1754.319946 2471.479980 13.815599
+texture obj red-2 18646 0
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+
+
+
+
+red-2 loaded from gta3
+[IsModelLoaded] iModelID: 18646
+IsModelLoaded true!
+RPC: ScrSetMapIcon
+CreatePickup(1239, 23, 2322, 2104,   16)
+CreatePickup(1239, 23, 2322, 2024,   16)
+CreatePickup(1239, 23, 2322, 2084,   16)
+CreatePickup(1318, 1, 2197, 1677,   12)
+CreatePickup(1318, 1, 1995, 1940,   16)
+CreatePickup(1318, 1, 1981, 1893,   16)
+CreatePickup(1273, 23, 1986, 1832,   16)
+CreatePickup(1273, 23, 1989, 1794,   16)
+CreatePickup(1318, 1, 1950, 1906,   15)
+CreatePickup(1273, 23, 1945, 1845,   15)
+CreatePickup(1273, 23, 1944, 1807,   16)
+CreatePickup(1273, 23, 1995, 1746,   16)
+RPC: ScrDisableMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+CreatePickup(1318, 1, 1901, 1864,   14)
+CreatePickup(1318, 1, 1946, 2069,   16)
+CreatePickup(1318, 1, 1900, 1876,   13)
+CreatePickup(1273, 23, 1944, 1753,   15)
+CreatePickup(1239, 23, 2061, 1868, -100)
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+CreatePickup(1318, 1, 1922, 2093,   16)
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+CreatePickup(1318, 23, 1854, 2035,   17)
+CreatePickup(1318, 23, 1817, 1784,   16)
+[IsModelLoaded] iModelID: 255
+IsModelLoaded false!
+LoadRequestedModels
+LoadRequestedModels done!
+RPC: ScrSetMapIcon
+CreatePickup(1318, 23, 1919, 2183,   16)
+RPC: ScrSetMapIcon
+RPC: ScrSetMapIcon
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrResetMoney
+RPC: ScrHaveSomeMoney
+[IsModelLoaded] iModelID: 405
+IsModelLoaded true!
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+RPC: ScrDisableMapIcon
+CLocalPlayer::UpdateRemoteInterior 1

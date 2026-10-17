@@ -1,0 +1,741 @@
+#Item MY RUSSIA
+objs ( ПРОПСЫ, СЕВЕРНЫЕ ОБЪЕКТЫ + GTA SA ОБЪЕКТЫ ) 
+18177, los, CR, 450, 0
+18178, zayac, CR, 450, 0
+18179, kaban, CR, 450, 0
+18180, medved, CR, 450, 0
+18181, yashik_2, CR, 150, 0
+18182, yashik_1, CR, 150, 0
+18183, udochka_1, CR, 150, 0
+18184, udochka_2, CR, 150, 0
+18185, udochka_3, CR, 150, 0
+18186, medic_sumka, CR, 150, 0
+18187, ograb_sumka, CR, 150, 0
+18188, tool_sumka, CR, 150, 0
+18189, inkasac_sumka, CR, 150, 0
+18190, canister_green, CR, 150, 0
+18191, conus_doroga, CR, 150, 0
+18192, kolona_doroga, CR, 150, 0
+18193, barricade_metal, CR, 150, 0
+18194, doroga_shipi, CR, 150, 0
+18400, m_acs01, CR, 150, 0
+18401, m_acs02, CR, 150, 0
+18402, m_acs03, CR, 150, 0
+18403, m_acs04, CR, 150, 0
+18404, m_acs05, CR, 150, 0
+18405, m_acs06, CR, 150, 0
+18406, m_acs07, CR, 150, 0
+18407, m_acs08, CR, 150, 0
+18408, m_acs09, CR, 150, 0
+18409, m_acs10, CR, 150, 0
+18410, m_acs11, CR, 150, 0
+18411, m_acs12, CR, 150, 0
+18412, m_acs13, CR, 150, 0
+18413, m_acs14, CR, 150, 0
+18414, m_acs15, CR, 150, 0
+18415, m_acs16, CR, 150, 0
+18417, m_acs18, CR, 150, 0
+18418, m_acs19, CR, 150, 0
+18419, m_acs20, CR, 150, 0
+18420, m_acs21, CR, 150, 0
+18421, m_acs22, CR, 150, 0
+18422, m_acs23, CR, 150, 0
+18423, m_acs24, CR, 150, 0
+18424, m_acs25, CR, 150, 0
+18425, m_acs26, CR, 150, 0
+18426, m_acs27, CR, 150, 0
+18427, m_acs28, CR, 150, 0
+18428, m_acs29, CR, 150, 0
+18429, m_acs50, CR, 150, 0
+18430, m_acs31, CR, 150, 0
+18431, m_acs32, CR, 150, 0
+18432, m_acs33, CR, 150, 0
+18433, m_acs34, CR, 150, 0
+18434, m_acs35, CR, 150, 0
+18435, m_acs36, CR, 150, 0
+18436, m_acs37, CR, 150, 0
+18437, m_acs38, CR, 150, 0
+18438, m_acs39, CR, 150, 0
+18439, m_acs40, CR, 150, 0
+18440, m_acs41, CR, 150, 0
+18441, m_acs42, CR, 150, 0
+18442, m_acs43, CR, 150, 0
+18443, m_acs44, CR, 150, 0
+18444, m_acs45, CR, 150, 0
+18445, m_acs46, CR, 150, 0
+18446, m_acs47, CR, 150, 0
+18447, m_acs48, CR, 150, 0
+18448, m_acs49, CR, 150, 0
+18449, m_acs50, CR, 150, 0
+18450, m_acs51, CR, 150, 0
+18451, m_acs52, CR, 150, 0
+18452, m_acs53, CR, 150, 0
+18453, m_acs54, CR, 150, 0
+18454, m_acs55, CR, 150, 0
+18455, m_acs56, CR, 150, 0
+18456, m_acs57, CR, 150, 0
+18457, m_acs58, CR, 150, 0
+18458, scena, scena, 130, 0
+18465, kkkuuusss, kkkuuusss, 99, 0
+18468, helix_barrier, helixbarrier, 150, 0
+18507, skuteras, skuteras, 150, 0
+18569, larek1, larek1, 99, 0
+18570, larek2, larek2, 99, 0
+18571, army_24, armyachast, 99, 0
+18572, lepalpha2, lepalpha, 200, 0
+18573, plac, armyachast, 99, 0
+18574, zabik2_a, station, 99, 0
+18575, fence_main_a, ir_defbuildings, 99, 0
+18576, fence_entry_a, ir_defbuildings, 99, 0
+18579, resheto, resheto, 50, 0
+18581, stolb_dvor, stolb_dvor, 99, 0
+4283, rinock, rinock, 200, 0
+4134, nomer_rus01, nomer, 50, 0
+4138, sim_karta, nomer, 30, 0
+4143, panelfix, panelfix, 99, 0
+2061, CJ_SHELLS1, CJ_AMMO, 50, 0
+3461, tikitorch01_lvs, tikitorch, 99, 0
+2663, CJ_BS_BAG, tikitorch, 59, 0
+2358, AMMO_BOX_c2, crates_n_stuffext, 99, 0
+933, CJ_CABLEROLL, crates_n_stuffext, 50, 0
+4139, low_hi_fi_2, cj_hi_fi, 50, 0
+4140, low_hi_fi_3, cj_hi_fi2, 50, 0
+18231, osten1, osten, 150, 0
+18232, osten2, osten, 150, 0
+18233, osten3, osten, 150, 0
+18227, svetofor, svetofor, 150, 0
+18228, stelll, stelll, 200, 0
+18025, stella, stella, 200, 0
+18021, mysor, mysor, 100, 0
+18022, sosnovskoe_znak, znaki_poselkov, 100, 0
+18013, kub_ev_st, polez_ev_st, 99, 0
+18006, h_sign, h_ttxt, 150, 0
+18007, h_offc, h_ttxt, 150, 0
+18008, h_grnd, hrly_dvdsn, 150, 0
+18009, pryam_ev_st_2, polez_ev_st, 150, 0
+18011, zak_ev_st_2, polez_ev_st, 150, 0
+18012, zak_ev_st_3, polez_ev_st, 150, 0
+18017, billboard, billboard, 200, 0
+18027, dvkproject, dvkproject, 100, 0
+18664, dedinside, melochnyi, 99, 0
+18665, zabo, melochnyi, 99, 0
+18666, stolbakk, melochnyi, 99, 0
+18667, stolbakkk, melochnyi, 99, 0
+18675, matrp_kont1, matrp_kont, 150, 0
+18676, matrp_kont2, matrp_kont, 150, 0
+18677, matrp_kont3, matrp_kont, 150, 0
+18678, matrp_kont4, matrp_kont, 150, 0
+18679, wasr_srock04, wasr_srock0, 200, 0
+18681, matrp_par, matrp_par, 150, 0
+18682, otboin58, stanciya, 299, 0
+983, fenceshit3, CR, 45, 0
+2068, cj_cammo_net, CR, 78, 0
+2102, LOW_HI_FI_2, CJ_HI_FI, 30, 0
+2226, LOW_HI_FI_3, CJ_HI_FI2, 30, 0
+2114, basketball, SPORTS, 30, 0
+1838, kb_bandit11, kbslotmchines, 100, 128
+1895, wheel_o_fortune, kb_wheel1, 30, 0
+1736, CJ_Stags_head, CJ_AMMO, 30, 0
+2045, CJ_BBAT_NAILS, CJ_AMMO, 30, 0
+2470, MODEL_PLANES_4, RC_SHOP_ACC, 30, 2097152
+2643, CJ_BURGER_POSTER3, CJ_BURG_SIGN2, 50, 0
+2645, CJ_PIZZA_POSTER, CJ_piz_SIGN, 50, 0
+2404, CJ_SURF_BOARD, Surf_boards, 30, 0
+2405, CJ_SURF_BOARD2, Surf_boards, 30, 0
+2406, CJ_SURF_BOARD3, Surf_boards, 30, 0
+1972, kb_cuntopdisp2, display1, 100, 2097156
+2146, CJ_TROLLY1, CJTEMP, 30, 
+2512, MODEL_PLANE_BIG3, RC_SHOP_HANGER, 30, 0
+2614, CJ_US_FLAG, POLICE_PROPS_un, 30, 0
+2642, CJ_BURGER_POSTER2, CJ_BURG_SIGN, 50, 0
+3434, skllsgn01_lvs, skullsign, 130, 2097152
+3528, vgsEdragon, vgsedragon, 100, 2097152
+13667, monkeyman, dirtstad, 299, 2
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18177, los, CR, 450, 0
+18178, zayac, CR, 450, 0
+18179, kaban, CR, 450, 0
+18180, medved, CR, 450, 0
+18181, yashik_2, CR, 150, 0
+18182, yashik_1, CR, 150, 0
+18183, udochka_1, CR, 150, 0
+18184, udochka_2, CR, 150, 0
+18185, udochka_3, CR, 150, 0
+18186, medic_sumka, CR, 150, 0
+18187, ograb_sumka, CR, 150, 0
+18188, tool_sumka, CR, 150, 0
+18189, inkasac_sumka, CR, 150, 0
+18190, canister_green, CR, 150, 0
+18191, conus_doroga, CR, 150, 0
+18192, kolona_doroga, CR, 150, 0
+18193, barricade_metal, CR, 150, 0
+18194, doroga_shipi, CR, 150, 0
+18400, m_acs01, CR, 150, 0
+18401, m_acs02, CR, 150, 0
+18402, m_acs03, CR, 150, 0
+18403, m_acs04, CR, 150, 0
+18404, m_acs05, CR, 150, 0
+18405, m_acs06, CR, 150, 0
+18406, m_acs07, CR, 150, 0
+18407, m_acs08, CR, 150, 0
+18408, m_acs09, CR, 150, 0
+18409, m_acs10, CR, 150, 0
+18410, m_acs11, CR, 150, 0
+18411, m_acs12, CR, 150, 0
+18412, m_acs13, CR, 150, 0
+18413, m_acs14, CR, 150, 0
+18414, m_acs15, CR, 150, 0
+18415, m_acs16, CR, 150, 0
+18417, m_acs18, CR, 150, 0
+18418, m_acs19, CR, 150, 0
+18419, m_acs20, CR, 150, 0
+18420, m_acs21, CR, 150, 0
+18421, m_acs22, CR, 150, 0
+18422, m_acs23, CR, 150, 0
+18423, m_acs24, CR, 150, 0
+18424, m_acs25, CR, 150, 0
+18425, m_acs26, CR, 150, 0
+18426, m_acs27, CR, 150, 0
+18427, m_acs28, CR, 150, 0
+18428, m_acs29, CR, 150, 0
+18429, m_acs50, CR, 150, 0
+18430, m_acs31, CR, 150, 0
+18431, m_acs32, CR, 150, 0
+18432, m_acs33, CR, 150, 0
+18433, m_acs34, CR, 150, 0
+18434, m_acs35, CR, 150, 0
+18435, m_acs36, CR, 150, 0
+18436, m_acs37, CR, 150, 0
+18437, m_acs38, CR, 150, 0
+18438, m_acs39, CR, 150, 0
+18439, m_acs40, CR, 150, 0
+18440, m_acs41, CR, 150, 0
+18441, m_acs42, CR, 150, 0
+18442, m_acs43, CR, 150, 0
+18443, m_acs44, CR, 150, 0
+18444, m_acs45, CR, 150, 0
+18445, m_acs46, CR, 150, 0
+18446, m_acs47, CR, 150, 0
+18447, m_acs48, CR, 150, 0
+18448, m_acs49, CR, 150, 0
+18449, m_acs50, CR, 150, 0
+18450, m_acs51, CR, 150, 0
+18451, m_acs52, CR, 150, 0
+18452, m_acs53, CR, 150, 0
+18453, m_acs54, CR, 150, 0
+18454, m_acs55, CR, 150, 0
+18455, m_acs56, CR, 150, 0
+18456, m_acs57, CR, 150, 0
+18457, m_acs58, CR, 150, 0
+18458, scena, scena, 130, 0
+18465, kkkuuusss, kkkuuusss, 99, 0
+18468, helix_barrier, helixbarrier, 150, 0
+18507, skuteras, skuteras, 150, 0
+18569, larek1, larek1, 99, 0
+18570, larek2, larek2, 99, 0
+18571, army_24, armyachast, 99, 0
+18572, lepalpha2, lepalpha, 200, 0
+18573, plac, armyachast, 99, 0
+18574, zabik2_a, station, 99, 0
+18575, fence_main_a, ir_defbuildings, 99, 0
+18576, fence_entry_a, ir_defbuildings, 99, 0
+18579, resheto, resheto, 50, 0
+18581, stolb_dvor, stolb_dvor, 99, 0
+18664, dedinside, melochnyi, 99, 0
+18665, zabo, melochnyi, 99, 0
+18666, stolbakk, melochnyi, 99, 0
+18667, stolbakkk, melochnyi, 99, 0
+18675, matrp_kont1, matrp_kont, 150, 0
+18676, matrp_kont2, matrp_kont, 150, 0
+18677, matrp_kont3, matrp_kont, 150, 0
+18678, matrp_kont4, matrp_kont, 150, 0
+18679, wasr_srock04, wasr_srock0, 200, 0
+18681, matrp_par, matrp_par, 150, 0
+18682, otboin58, stanciya, 299, 0
+4283, rinock, rinock, 200, 0
+4134, nomer_rus01, nomer, 50, 0
+4138, sim_karta, nomer, 30, 0
+4143, panelfix, panelfix, 99, 0
+2061, CJ_SHELLS1, CJ_AMMO, 50, 0
+3461, tikitorch01_lvs, tikitorch, 99, 0
+2663, CJ_BS_BAG, tikitorch, 59, 0
+2358, AMMO_BOX_c2, crates_n_stuffext, 99, 0
+933, CJ_CABLEROLL, crates_n_stuffext, 50, 0
+4139, low_hi_fi_2, cj_hi_fi, 50, 0
+4140, low_hi_fi_3, cj_hi_fi2, 50, 0
+18231, osten1, osten, 150, 0
+18232, osten2, osten, 150, 0
+18233, osten3, osten, 150, 0
+18227, svetofor, svetofor, 150, 0
+18228, stelll, stelll, 200, 0
+18021, mysor, mysor, 100, 0
+18022, sosnovskoe_znak, znaki_poselkov, 100, 0
+18013, kub_ev_st, polez_ev_st, 99, 0
+18006, h_sign, h_ttxt, 150, 0
+18007, h_offc, h_ttxt, 150, 0
+18008, h_grnd, hrly_dvdsn, 150, 0
+18009, pryam_ev_st_2, polez_ev_st, 150, 0
+18011, zak_ev_st_2, polez_ev_st, 150, 0
+18012, zak_ev_st_3, polez_ev_st, 150, 0
+18017, billboard, billboard, 200, 0
+18027, dvkproject, dvkproject, 100, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
